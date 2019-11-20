@@ -1,4 +1,4 @@
-FROM instructure/ruby-node-pg:2.6
+FROM instructure/ruby-node-pg:2.6.3
 USER root
 
 RUN apt-get update && apt-get install -yqq cmake
