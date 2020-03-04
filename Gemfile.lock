@@ -1061,7 +1061,7 @@ GEM
     pry-nav (0.3.0)
       pry (>= 0.9.10, < 0.13.0)
     public_suffix (3.1.0)
-    puma (3.12.1)
+    puma (3.12.4)
     rabl (0.13.1)
       activesupport (>= 2.3.14)
     rack (2.0.7)
@@ -1306,7 +1306,7 @@ DEPENDENCIES
   pghero
   pry
   pry-nav
-  puma (~> 3.11)
+  puma (~> 3.12)
   rabl
   rack-cors
   rails (~> 5.2.3)
