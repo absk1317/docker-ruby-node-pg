@@ -38,7 +38,7 @@ gem 'kaminari'
 gem 'paranoia'
 
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 
 # Use searchkick as a wrapper for elastic DSL
 gem 'geocoder'
